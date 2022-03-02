@@ -1,0 +1,18 @@
+body{text-align: center;}
+h1{font-size: 1.5em; background-color: red;
+  margin: 10px; padding: 10px;
+}
+h2{font-style: italic; text-decoration: underline; background-color: #ccc;
+  margin: 3em 3em 3em 3em; padding: 3em;
+}
+h3{font-size: 1.5em; background-color: rgb(101,201,196);
+  margin: 10px; padding: 10px;
+}
+h4{
+border-style: solid;
+border-width: 10px 50px 10px 50px;
+border-color: red;
+margin-right: 50px;
+background-color: green;
+bo
+}
